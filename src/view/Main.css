@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+#memoriaVirtual{
+	-fx-background-color: gray;
+}
+
+#menuProcessos{
+	-fx-background-color: lightblue;
+}
+
+#barraLateral{
+	-fx-background-color: lightblue;
+}
+
+.label{
+	-fx-font-size: 15px;
+}
